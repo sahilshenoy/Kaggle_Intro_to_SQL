@@ -30,6 +30,6 @@ If you find any errors or have suggestions for improving the answers, feel free 
 
 I would like to thank Kaggle for providing this great learning resource, as well as the instructors and contributors who created the course content.
 
-## License
+## Certificate
+![certificate](https://i.imgur.com/Y0k5y7z.png)
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
